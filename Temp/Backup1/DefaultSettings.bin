@@ -1,0 +1,50 @@
+
+F
+*
+Notes(0=sccm, 1=slpm, 2=scfm,3=scfh)Default_Display_Unit_Low
+F
+*
+Notes(0=sccm, 1=slpm, 2=scfm,3=scfh)Default_Display_Unit_Mid
+0
+
+Notes(0=sccm, 1=slpm)Default_Meter_Low
+H
+
+Default_Setting1
+
+Notes(0=sccm, 1=slpm)Default_Meter_Mid
+,
+
+Default_Setting1501Firmware_number
+0
+
+Default_Setting
+LS 1402-01Serial_number
+Display_Press_Unit
+6
+
+Notes(0=psig, 1=bar)Default_Press_Meter_Unit
+Low_Min_FlowRate
+:
+
+Default_Setting50
+
+Notes50Low_Max_FlowRate
+-
+
+Default_Setting0.05Mid_Min_FlowRate
+8
+
+Default_Setting1
+
+Notes1Mid_Max_FlowRate
+;
+
+Default_Setting200
+
+Notes200Inlet_Press_Max
+:
+
+Default_Setting100
+
+Notes100Test_Press_Max

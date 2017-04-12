@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.21.28.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="DiagScreen1.lblTitle" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="DiagScreen1.Text" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="DiagScreen1.Text1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="DiagScreen1.Text2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="DiagScreen1.Text3" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="DiagScreen1.Text4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="DiagScreen1.Text5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="DiagScreen1.Text6" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="DiagScreen1.Text7" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="DiagScreen1.Button" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="DiagScreen1.Button1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item xsi:type="ActionItem" Target="DiagScreen1" TargetProperty="Actions" Source="Tags.CurrentScreen" Event="Opened" Action="Set Analog" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="DiagScreen1.Button" Source="-1534765959_Normal.bmp" />
+        <Item Target="DiagScreen1.Button" Source="-1534765959_Pressed.bmp" />
+        <Item Target="DiagScreen1.Button" Source="-1534765959_Disabled.bmp" />
+        <Item Target="DiagScreen1.Button1" Source="-1534765959_Normal.bmp" />
+        <Item Target="DiagScreen1.Button1" Source="-1534765959_Pressed.bmp" />
+        <Item Target="DiagScreen1.Button1" Source="-1534765959_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="DiagScreen1.Button" TargetProperty="Actions" Source="DiagPreCheck" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ActionItem" Target="DiagScreen1.Button1" TargetProperty="Actions" Source="SettingScreen" Event="Click" Action="Show Screen" Param="Default" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>DiagScreen1</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>36</ObjectsCount>
+          <ScreenName>DiagScreen1</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="DiagScreen1" TargetProperty="Actions" Source="Tags.CurrentScreen" Event="Opened" Action="Set Analog" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="DiagScreen1.Picture1" Source="path3833" Width="20" Height="26" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="DiagScreen1.Picture2" Source="g4182" Width="25" Height="22" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="DiagScreen1.Picture3" Source="image2993" Width="27" Height="24" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

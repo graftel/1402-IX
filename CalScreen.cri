@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.21.28.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="CalScreen.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="CalScreen.Text1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Button" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Text2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Text4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Text5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Button1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Button2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Button3" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Button4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Button5" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Text6" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Text7" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Button11" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="CalScreen.Text8" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Button6" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Button7" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.Button8" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="CalScreen.AnalogNumeric" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items />
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="CalScreen.Button" Source="1508952513_Normal.bmp" />
+        <Item Target="CalScreen.Button" Source="1508952513_Pressed.bmp" />
+        <Item Target="CalScreen.Button" Source="1508952513_Disabled.bmp" />
+        <Item Target="CalScreen.Button1" Source="-352785518_Normal.bmp" />
+        <Item Target="CalScreen.Button1" Source="-352785518_Pressed.bmp" />
+        <Item Target="CalScreen.Button1" Source="-352785518_Disabled.bmp" />
+        <Item Target="CalScreen.Button2" Source="-352785518_Normal.bmp" />
+        <Item Target="CalScreen.Button2" Source="-352785518_Pressed.bmp" />
+        <Item Target="CalScreen.Button2" Source="-352785518_Disabled.bmp" />
+        <Item Target="CalScreen.Button3" Source="1230220091_Normal.bmp" />
+        <Item Target="CalScreen.Button3" Source="1230220091_Pressed.bmp" />
+        <Item Target="CalScreen.Button3" Source="1230220091_Disabled.bmp" />
+        <Item Target="CalScreen.Button4" Source="537563722_Normal.bmp" />
+        <Item Target="CalScreen.Button4" Source="537563722_Pressed.bmp" />
+        <Item Target="CalScreen.Button4" Source="537563722_Disabled.bmp" />
+        <Item Target="CalScreen.Button5" Source="-534995830_Normal.bmp" />
+        <Item Target="CalScreen.Button5" Source="-534995830_Pressed.bmp" />
+        <Item Target="CalScreen.Button5" Source="-534995830_Disabled.bmp" />
+        <Item Target="CalScreen.Button11" Source="2126007191_Normal.bmp" />
+        <Item Target="CalScreen.Button11" Source="2126007191_Pressed.bmp" />
+        <Item Target="CalScreen.Button11" Source="2126007191_Disabled.bmp" />
+        <Item Target="CalScreen.Button6" Source="-2130336822_Normal.bmp" />
+        <Item Target="CalScreen.Button6" Source="-2130336822_Pressed.bmp" />
+        <Item Target="CalScreen.Button6" Source="-2130336822_Disabled.bmp" />
+        <Item Target="CalScreen.Button7" Source="-1627486886_Normal.bmp" />
+        <Item Target="CalScreen.Button7" Source="-1627486886_Pressed.bmp" />
+        <Item Target="CalScreen.Button7" Source="-1627486886_Disabled.bmp" />
+        <Item Target="CalScreen.Button8" Source="217768273_Normal.bmp" />
+        <Item Target="CalScreen.Button8" Source="217768273_Pressed.bmp" />
+        <Item Target="CalScreen.Button8" Source="217768273_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ActionItem" Target="CalScreen.Button11" TargetProperty="Actions" Source="SettingScreen" Event="Click" Action="Show Screen" Param="" />
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>CalScreen</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>20</ObjectsCount>
+          <ScreenName>CalScreen</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items />
+    </Category>
+    <Category Name="StructuredTag">
+      <Items />
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="CalScreen.Button7" Source="path2924" Width="24" Height="20" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="CalScreen.Button8" Source="path2923" Width="24" Height="20" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.21.28.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items />
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="RcrdInterval.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="RcrdInterval.lblMin" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="RcrdInterval.Text15" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="RcrdInterval.lblSec" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="RcrdInterval.Text" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="RcrdInterval.Button22" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="RcrdInterval.Button23" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="RcrdInterval.Button" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="RcrdInterval.Button1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item xsi:type="ActionItem" Target="RcrdInterval" TargetProperty="Actions" Source="Tags.CurrentScreen" Event="Opened" Action="Set Analog" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="RcrdInterval.Button22" Source="1363860157_Normal.bmp" />
+        <Item Target="RcrdInterval.Button22" Source="1363860157_Pressed.bmp" />
+        <Item Target="RcrdInterval.Button22" Source="1363860157_Disabled.bmp" />
+        <Item Target="RcrdInterval.Button23" Source="-1538366071_Normal.bmp" />
+        <Item Target="RcrdInterval.Button23" Source="-1538366071_Pressed.bmp" />
+        <Item Target="RcrdInterval.Button23" Source="-1538366071_Disabled.bmp" />
+        <Item Target="RcrdInterval.Button" Source="-392000978_Normal.bmp" />
+        <Item Target="RcrdInterval.Button" Source="-392000978_Pressed.bmp" />
+        <Item Target="RcrdInterval.Button" Source="-392000978_Disabled.bmp" />
+        <Item Target="RcrdInterval.Button1" Source="24033907_Normal.bmp" />
+        <Item Target="RcrdInterval.Button1" Source="24033907_Pressed.bmp" />
+        <Item Target="RcrdInterval.Button1" Source="24033907_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>RcrdInterval</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>21</ObjectsCount>
+          <ScreenName>RcrdInterval</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="RcrdInterval.Script.cs" Source="Tags.RcrdInterval" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="RcrdInterval" TargetProperty="Actions" Source="Tags.CurrentScreen" Event="Opened" Action="Set Analog" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="RcrdInterval.Button22" Source="path2985" Width="35" Height="40" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="RcrdInterval.Button23" Source="path29851" Width="35" Height="40" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="RcrdInterval.Button" Source="path2985" Width="35" Height="40" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="RcrdInterval.Button1" Source="path29851" Width="35" Height="40" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items />
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

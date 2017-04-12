@@ -1,0 +1,227 @@
+<?xml version="1.0"?>
+<CrossReferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="2.21.28.0">
+  <Categories>
+    <Category Name="AlarmViewer">
+      <Items />
+    </Category>
+    <Category Name="Alias">
+      <Items />
+    </Category>
+    <Category Name="AliasInstanceDataItem">
+      <Items />
+    </Category>
+    <Category Name="DatabaseService">
+      <Items />
+    </Category>
+    <Category Name="DatabaseViewer">
+      <Items />
+    </Category>
+    <Category Name="DataLogger">
+      <Items />
+    </Category>
+    <Category Name="Expression">
+      <Items>
+        <Item Target="MainScreen.lblUSB" TargetProperty="Text" Source="usbstatuscheck" />
+        <Item Target="MainScreen.btnZero" TargetProperty="Text" Source="ZeroButtonText" />
+      </Items>
+    </Category>
+    <Category Name="Font">
+      <Items>
+        <Item Target="MainScreen.Text" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Text2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.lblUSB" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.Text10" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.LinearMeter" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Text4" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.rcrdMsg" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.DigitalClock" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.Text5" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Text12" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.Text11" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.AnalogNumeric2" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.AnalogNumeric1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.AnalogNumeric" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.Text9" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Button2" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Button4" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Button9" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.btnZero" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Button3" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Button5" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Button1" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Button8" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Button7" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Button6" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Group.Text13" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.Group.Text1" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.btnInPressDown.Text8" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+        <Item Target="MainScreen.Text3" TargetProperty="FontFamily" Source="TAHOMA.TTF" />
+        <Item Target="MainScreen.Button10" TargetProperty="FontFamily" Source="ARIAL.TTF" />
+      </Items>
+    </Category>
+    <Category Name="GlobalDataItem">
+      <Items>
+        <Item Target="MainScreen.Text" TargetProperty="Value" Source="Tags.Main_Screen_Title" />
+        <Item Target="MainScreen.Text2" TargetProperty="Text" Source="Tags.MainDisplayMessage" />
+        <Item Target="MainScreen.lblUSB" TargetProperty="Text" Source="Tags.USBStatus" />
+        <Item Target="MainScreen.lblUSB" TargetProperty="Foreground" Source="Tags.USBStatus" />
+        <Item Target="MainScreen.Text10" TargetProperty="Value" Source="Tags.MainDisplayScale1" />
+        <Item Target="MainScreen.LinearMeter" TargetProperty="Value" Source="Tags.MainDisplayMeter" />
+        <Item Target="MainScreen.LinearMeter" TargetProperty="IndicatorColor" Source="Tags.iLinearMeterColor" />
+        <Item Target="MainScreen.Text4" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.MainUnderRangeEnable" />
+        <Item Target="MainScreen.rcrdMsg" TargetProperty="Value" Source="Tags.MainRecordMessage" />
+        <Item Target="MainScreen.rcrdMsg" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.Text5" TargetProperty="Value" Source="Tags.currentDataSetStr" />
+        <Item Target="MainScreen.Text5" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.Text12" TargetProperty="Value" Source="Tags.MainDisplayScale3" />
+        <Item Target="MainScreen.Text11" TargetProperty="Value" Source="Tags.MainDisplayScale2" />
+        <Item Target="MainScreen.AnalogNumeric1" TargetProperty="Value" Source="Tags.MainPressDisplayStr" />
+        <Item Target="MainScreen.AnalogNumeric1" TargetProperty="Foreground" Source="Tags.IsNegativePress" />
+        <Item Target="MainScreen.AnalogNumeric" TargetProperty="Value" Source="Tags.MainFlowRateDisplayStr" />
+        <Item Target="MainScreen.AnalogNumeric" TargetProperty="Foreground" Source="Tags.BackFlowIndicator" />
+        <Item Target="MainScreen.AnalogNumeric" TargetProperty="BlinkProperties.IsBlinkEnabled" Source="Tags.MainDisplayBlink" />
+        <Item Target="MainScreen.Text9" TargetProperty="Value" Source="Tags.QuickFillMessage" />
+        <Item Target="MainScreen.Text9" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.QuickFillMessageVisi" />
+        <Item Target="MainScreen.Picture" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.RemoteDesktopIcon" />
+        <Item Target="MainScreen.Button2" TargetProperty="Text" Source="Tags.MainFlowUnitBtn" />
+        <Item Target="MainScreen.Button4" TargetProperty="Text" Source="Tags.gasType" />
+        <Item Target="MainScreen.Button4" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.Button9" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.btnZero" TargetProperty="Text" Source="Tags.selMode" />
+        <Item Target="MainScreen.btnZero" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.Button3" TargetProperty="Value" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.Button3" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.Button5" TargetProperty="Value" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.Button5" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.Button8" TargetProperty="Text" Source="Tags.PressUnit" />
+        <Item Target="MainScreen.Button8" TargetProperty="EnabledProperties.EnabledDynamicsValue" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.Button7" TargetProperty="TextValue" Source="Tags.selMode" />
+        <Item Target="MainScreen.Group.Text13" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.lblSwitchVisible" />
+        <Item Target="MainScreen.Group.Text1" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.lblSwitchVisible" />
+        <Item Target="MainScreen.Text3" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.MainOverRangeEnable" />
+        <Item Target="MainScreen.Button10" TargetProperty="BlinkProperties.VisibleDynamicsValue" Source="Tags.RcrdStatus" />
+        <Item xsi:type="ActionItem" Target="MainScreen" TargetProperty="Actions" Source="Tags.CurrentScreen" Event="Opened" Action="Set Analog" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Object">
+      <Items />
+    </Category>
+    <Category Name="Recipe">
+      <Items />
+    </Category>
+    <Category Name="Renderable">
+      <Items>
+        <Item Target="MainScreen.LinearMeter" Source="MainScreen.m_LinearMeter.bmp" />
+        <Item Target="MainScreen.Button2" Source="-1476544593_Normal.bmp" />
+        <Item Target="MainScreen.Button2" Source="-1476544593_Pressed.bmp" />
+        <Item Target="MainScreen.Button2" Source="-1476544593_Disabled.bmp" />
+        <Item Target="MainScreen.Button4" Source="1511983119_Normal.bmp" />
+        <Item Target="MainScreen.Button4" Source="1511983119_Pressed.bmp" />
+        <Item Target="MainScreen.Button4" Source="1511983119_Disabled.bmp" />
+        <Item Target="MainScreen.Button9" Source="346375653_Normal.bmp" />
+        <Item Target="MainScreen.Button9" Source="346375653_Pressed.bmp" />
+        <Item Target="MainScreen.Button9" Source="346375653_Disabled.bmp" />
+        <Item Target="MainScreen.btnZero" Source="339610867_Normal.bmp" />
+        <Item Target="MainScreen.btnZero" Source="339610867_Pressed.bmp" />
+        <Item Target="MainScreen.btnZero" Source="339610867_Disabled.bmp" />
+        <Item Target="MainScreen.Button3" Source="1232392434_Normal.bmp" />
+        <Item Target="MainScreen.Button3" Source="1232392434_Pressed.bmp" />
+        <Item Target="MainScreen.Button3" Source="1232392434_Disabled.bmp" />
+        <Item Target="MainScreen.Button3" Source="1232392434_Normal_0.bmp" />
+        <Item Target="MainScreen.Button3" Source="1232392434_Pressed_0.bmp" />
+        <Item Target="MainScreen.Button3" Source="1232392434_Disabled_0.bmp" />
+        <Item Target="MainScreen.Button3" Source="1232392434_Normal_1.bmp" />
+        <Item Target="MainScreen.Button3" Source="1232392434_Pressed_1.bmp" />
+        <Item Target="MainScreen.Button3" Source="1232392434_Disabled_1.bmp" />
+        <Item Target="MainScreen.Button5" Source="-677329735_Normal.bmp" />
+        <Item Target="MainScreen.Button5" Source="-677329735_Pressed.bmp" />
+        <Item Target="MainScreen.Button5" Source="-677329735_Disabled.bmp" />
+        <Item Target="MainScreen.Button5" Source="-677329735_Normal_0.bmp" />
+        <Item Target="MainScreen.Button5" Source="-677329735_Pressed_0.bmp" />
+        <Item Target="MainScreen.Button5" Source="-677329735_Disabled_0.bmp" />
+        <Item Target="MainScreen.Button5" Source="-677329735_Normal_1.bmp" />
+        <Item Target="MainScreen.Button5" Source="-677329735_Pressed_1.bmp" />
+        <Item Target="MainScreen.Button5" Source="-677329735_Disabled_1.bmp" />
+        <Item Target="MainScreen.Button1" Source="339610867_Normal.bmp" />
+        <Item Target="MainScreen.Button1" Source="339610867_Pressed.bmp" />
+        <Item Target="MainScreen.Button1" Source="339610867_Disabled.bmp" />
+        <Item Target="MainScreen.Button8" Source="-404730324_Normal.bmp" />
+        <Item Target="MainScreen.Button8" Source="-404730324_Pressed.bmp" />
+        <Item Target="MainScreen.Button8" Source="-404730324_Disabled.bmp" />
+        <Item Target="MainScreen.Button7" Source="346375653_Normal.bmp" />
+        <Item Target="MainScreen.Button7" Source="346375653_Pressed.bmp" />
+        <Item Target="MainScreen.Button7" Source="346375653_Disabled.bmp" />
+        <Item Target="MainScreen.Button6" Source="-698916354_Normal.bmp" />
+        <Item Target="MainScreen.Button6" Source="-698916354_Pressed.bmp" />
+        <Item Target="MainScreen.Button6" Source="-698916354_Disabled.bmp" />
+        <Item Target="MainScreen.Button10" Source="990451955_Normal.bmp" />
+        <Item Target="MainScreen.Button10" Source="990451955_Pressed.bmp" />
+        <Item Target="MainScreen.Button10" Source="990451955_Disabled.bmp" />
+      </Items>
+    </Category>
+    <Category Name="Report">
+      <Items />
+    </Category>
+    <Category Name="Screen">
+      <Items>
+        <Item xsi:type="ScreenIDItem" ScreenID="">
+          <ScreenName>MainScreen</ScreenName>
+        </Item>
+        <Item xsi:type="ScreenObjectsCrossReferenceItem">
+          <ObjectsCount>39</ObjectsCount>
+          <ScreenName>MainScreen</ScreenName>
+        </Item>
+      </Items>
+    </Category>
+    <Category Name="Script">
+      <Items>
+        <Item Target="MainScreen.Script.cs" Source="Tags.ValveState" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.RemoteDesktopIcon" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.selMeter" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.selMode" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.flow_unit_low" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.flow_unit_mid" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.QuickFillMessageVisi" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.gasType" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.InletPressIndicator" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.MainDisplayMessage" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.USBStatus" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.RcrdStatus" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.tmr485_control" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.tmr232_control" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.wifiStreaming" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.GeneralConfirmMsg" />
+        <Item Target="MainScreen.Script.cs" Source="Tags.ConfirmAction" />
+      </Items>
+    </Category>
+    <Category Name="StructuredTag">
+      <Items>
+        <Item xsi:type="ActionItem" Target="MainScreen" TargetProperty="Actions" Source="Tags.CurrentScreen" Event="Opened" Action="Set Analog" Param="" />
+      </Items>
+    </Category>
+    <Category Name="Symbol">
+      <Items>
+        <Item xsi:type="SymbolItem" Target="MainScreen.Picture" Source="remote_desktop_connection_icon" Width="32" Height="32" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="MainScreen.Button3" Source="settings_work_tool_256" Width="44" Height="44" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="MainScreen.Button3" Source="settings_work_tool_256" Width="44" Height="44" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="MainScreen.Button3" Source="settings_work_tool_256 (1)" Width="44" Height="44" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="MainScreen.Button5" Source="home_button_256" Width="44" Height="44" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="MainScreen.Button5" Source="home_button_256" Width="44" Height="44" IsAnimated="false" />
+        <Item xsi:type="SymbolItem" Target="MainScreen.Button5" Source="home_button_256 (1)" Width="44" Height="44" IsAnimated="false" />
+      </Items>
+    </Category>
+    <Category Name="TextLibrary">
+      <Items>
+        <Item xsi:type="TextLibraryItem" Target="MainScreen.Text2" TargetProperty="Text" Source="MainDisplayMsg" />
+        <Item xsi:type="TextLibraryItem" Target="MainScreen.Button4" TargetProperty="Text" Source="GasType" />
+        <Item xsi:type="TextLibraryItem" Target="MainScreen.Button8" TargetProperty="Text" Source="PressureUnit" />
+      </Items>
+    </Category>
+    <Category Name="TrendViewer">
+      <Items />
+    </Category>
+    <Category Name="Uri">
+      <Items />
+    </Category>
+  </Categories>
+</CrossReferences>

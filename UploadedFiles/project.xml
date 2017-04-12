@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project SchemaVersion="2.20.2296.0">
+  <Guid>a7286d39-c8ad-416c-a1d3-358c6185a1b6</Guid>
+  <ProjectFiles>
+    <ProjectFile Name="AlarmServer.neo" ModifiedDate="2016-02-10T14:57:07.6141092-06:00" Length="1027" />
+    <ProjectFile Name="Expressions.neo" ModifiedDate="2016-02-10T14:57:08.4961092-06:00" Length="8797" />
+    <ProjectFile Name="LicenseRootComponent.neo" ModifiedDate="2016-02-10T14:58:31.3912497-06:00" Length="8707" />
+    <ProjectFile Name="MultipleLanguages.neo" ModifiedDate="2016-02-17T07:55:16.7975435-06:00" Length="497181" />
+    <ProjectFile Name="Tags.neo" ModifiedDate="2016-02-12T13:30:56.3169311-06:00" Length="159327" />
+    <ProjectFile Name="Tags.Script.cs" ModifiedDate="2016-02-12T13:30:56.3179311-06:00" Length="779" />
+    <ProjectFile Name="ProjectConfiguration.neo" ModifiedDate="2016-02-10T14:57:07.7391092-06:00" Length="7899" />
+    <ProjectFile Name="Security.neo" ModifiedDate="2016-02-10T14:57:07.7441092-06:00" Length="422" />
+    <ProjectFile Name="Security.xml" ModifiedDate="2016-02-10T14:57:07.7431092-06:00" Length="136" />
+    <ProjectFile Name="SntpClientRootComponent.neo" ModifiedDate="2016-02-10T14:57:07.7461092-06:00" Length="441" />
+    <ProjectFile Name="ProjectImages.neo" ModifiedDate="2016-02-16T14:35:26.2893203-06:00" Length="458" />
+    <ProjectFile Name="Symbols\graftel-logo.bmp" ModifiedDate="2006-06-14T02:50:06-05:00" Length="16926" />
+    <ProjectFile Name="Symbols\new bitmap image.bmp" ModifiedDate="2015-06-08T10:20:29.7601358-05:00" Length="8946" />
+    <ProjectFile Name="Symbols\backward.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="3987" />
+    <ProjectFile Name="Symbols\close (1).png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="7168" />
+    <ProjectFile Name="Symbols\drawing-2.png" ModifiedDate="2015-06-08T10:31:35.7141358-05:00" Length="7196" />
+    <ProjectFile Name="Symbols\forward.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="4073" />
+    <ProjectFile Name="Symbols\g3770.png" ModifiedDate="2015-06-12T08:18:30.7636504-05:00" Length="86793" />
+    <ProjectFile Name="Symbols\g4182.png" ModifiedDate="2015-06-12T08:55:05.4661734-05:00" Length="9254" />
+    <ProjectFile Name="Symbols\g6066.png" ModifiedDate="2015-06-10T08:13:07.1010001-05:00" Length="35907" />
+    <ProjectFile Name="Symbols\g6104-63-3.png" ModifiedDate="2015-06-10T08:23:39.7655294-05:00" Length="31050" />
+    <ProjectFile Name="Symbols\g6104-63-8.png" ModifiedDate="2015-06-10T10:04:14.9270527-05:00" Length="34394" />
+    <ProjectFile Name="Symbols\g6104-63.png" ModifiedDate="2015-06-10T08:23:35.8032056-05:00" Length="30947" />
+    <ProjectFile Name="Symbols\g6104.png" ModifiedDate="2015-06-10T08:23:02.1546527-05:00" Length="36174" />
+    <ProjectFile Name="Symbols\g6137 (1).png" ModifiedDate="2015-06-11T15:12:19.8460677-05:00" Length="219578" />
+    <ProjectFile Name="Symbols\g6137.png" ModifiedDate="2015-06-11T15:07:00.3480677-05:00" Length="231435" />
+    <ProjectFile Name="Symbols\home_button_256 (1).png" ModifiedDate="2015-06-22T15:13:41.405917-05:00" Length="4117" />
+    <ProjectFile Name="Symbols\home_button_256.png" ModifiedDate="2015-06-11T07:27:56.7323025-05:00" Length="3957" />
+    <ProjectFile Name="Symbols\image2993 (1).png" ModifiedDate="2015-08-12T13:35:21.3320315-05:00" Length="64352" />
+    <ProjectFile Name="Symbols\image2993 (2).png" ModifiedDate="2015-08-12T13:41:07.0360315-05:00" Length="8431" />
+    <ProjectFile Name="Symbols\image2993.png" ModifiedDate="2015-08-12T13:20:38.0080315-05:00" Length="63831" />
+    <ProjectFile Name="Symbols\last.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="4131" />
+    <ProjectFile Name="Symbols\ledblacksmall.png" ModifiedDate="2015-06-09T09:30:21.6499953-05:00" Length="135" />
+    <ProjectFile Name="Symbols\next (1).png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="4019" />
+    <ProjectFile Name="Symbols\pandown.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="4231" />
+    <ProjectFile Name="Symbols\panup.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="4136" />
+    <ProjectFile Name="Symbols\path2923.png" ModifiedDate="2015-06-08T14:59:51.1931222-05:00" Length="20750" />
+    <ProjectFile Name="Symbols\path2924.png" ModifiedDate="2015-06-08T15:00:00.8091222-05:00" Length="20406" />
+    <ProjectFile Name="Symbols\path2985.png" ModifiedDate="2015-06-08T10:33:43.9661358-05:00" Length="18310" />
+    <ProjectFile Name="Symbols\path29851.png" ModifiedDate="2015-06-08T10:34:48.9761358-05:00" Length="19013" />
+    <ProjectFile Name="Symbols\path2989.png" ModifiedDate="2015-06-25T13:58:35.2112996-05:00" Length="1994" />
+    <ProjectFile Name="Symbols\path29891.png" ModifiedDate="2015-06-25T13:59:53.3242996-05:00" Length="2131" />
+    <ProjectFile Name="Symbols\path3833.png" ModifiedDate="2015-06-12T08:54:08.6054879-05:00" Length="9659" />
+    <ProjectFile Name="Symbols\path5894.png" ModifiedDate="2015-06-09T14:32:40.3497692-05:00" Length="4935" />
+    <ProjectFile Name="Symbols\path5913.png" ModifiedDate="2015-06-10T08:12:55.9940137-05:00" Length="41337" />
+    <ProjectFile Name="Symbols\path5914 (1).png" ModifiedDate="2015-06-10T08:09:11.1282452-05:00" Length="44631" />
+    <ProjectFile Name="Symbols\path5914 (2).png" ModifiedDate="2015-06-10T08:23:16.1007845-05:00" Length="42996" />
+    <ProjectFile Name="Symbols\path5914.png" ModifiedDate="2015-06-10T08:06:53.1982435-05:00" Length="44065" />
+    <ProjectFile Name="Symbols\path5920.png" ModifiedDate="2015-06-10T08:23:50.8413164-05:00" Length="42402" />
+    <ProjectFile Name="Symbols\path5923.png" ModifiedDate="2015-06-10T09:00:24.4500442-05:00" Length="27403" />
+    <ProjectFile Name="Symbols\path5924.png" ModifiedDate="2015-06-10T09:00:34.2280442-05:00" Length="30927" />
+    <ProjectFile Name="Symbols\path5925.png" ModifiedDate="2015-06-10T09:03:33.5700442-05:00" Length="42732" />
+    <ProjectFile Name="Symbols\path5926.png" ModifiedDate="2015-06-10T09:05:20.5820442-05:00" Length="5958" />
+    <ProjectFile Name="Symbols\path5927.png" ModifiedDate="2015-06-10T09:05:27.8220442-05:00" Length="5866" />
+    <ProjectFile Name="Symbols\path5928.png" ModifiedDate="2015-06-10T10:15:13.7410527-05:00" Length="45108" />
+    <ProjectFile Name="Symbols\pause.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="3645" />
+    <ProjectFile Name="Symbols\play.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="3747" />
+    <ProjectFile Name="Symbols\previous (1).png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="4078" />
+    <ProjectFile Name="Symbols\settings_gears_256.png" ModifiedDate="2015-06-11T07:25:13.4963025-05:00" Length="7807" />
+    <ProjectFile Name="Symbols\settings_work_tool_256 (1).png" ModifiedDate="2015-06-22T15:12:36.453917-05:00" Length="6818" />
+    <ProjectFile Name="Symbols\settings_work_tool_256.png" ModifiedDate="2015-06-12T10:49:09.5910174-05:00" Length="6127" />
+    <ProjectFile Name="Symbols\tags.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="13452" />
+    <ProjectFile Name="Symbols\text3808-7-2-1.png" ModifiedDate="2015-06-11T14:49:59.0760694-05:00" Length="623657" />
+    <ProjectFile Name="Symbols\trend.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="5796" />
+    <ProjectFile Name="Symbols\zoom in.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="7296" />
+    <ProjectFile Name="Symbols\zoom out.png" ModifiedDate="2015-03-16T18:10:44-05:00" Length="7084" />
+    <ProjectFile Name="Symbols\arkansas nuclear one, u 1.jpg" ModifiedDate="2014-03-13T12:15:47-05:00" Length="32427" />
+    <ProjectFile Name="Symbols\calvert-cliffs-nuclear-power-plant.jpg" ModifiedDate="2016-02-10T14:34:38.4730364-06:00" Length="348593" />
+    <ProjectFile Name="Symbols\largelasalle01.jpg" ModifiedDate="2015-08-17T13:05:51.3908033-05:00" Length="231079" />
+    <ProjectFile Name="Symbols\lasallecountygeneratingstation.jpg" ModifiedDate="2016-02-16T14:32:11.2776797-06:00" Length="231079" />
+    <ProjectFile Name="Symbols\ajax-loader (1).gif" ModifiedDate="2015-07-07T07:16:36.7678445-05:00" Length="3720" />
+    <ProjectFile Name="Symbols\ajax-loader (2).gif" ModifiedDate="2015-07-07T07:18:51.5631799-05:00" Length="673" />
+    <ProjectFile Name="Symbols\ajax-loader (4).gif" ModifiedDate="2015-06-08T13:24:35.5501358-05:00" Length="3208" />
+    <ProjectFile Name="Symbols\ajax-loader (5).gif" ModifiedDate="2015-06-08T13:27:10.5181358-05:00" Length="9427" />
+    <ProjectFile Name="Symbols\arrtan_e0.gif" ModifiedDate="2015-06-12T08:38:14.7378307-05:00" Length="11268" />
+    <ProjectFile Name="Symbols\warning (1).gif" ModifiedDate="2015-03-16T18:10:44-05:00" Length="3391" />
+    <ProjectFile Name="Symbols\ag_arrow left green.lib" ModifiedDate="2015-03-16T18:10:08-05:00" Length="12158" />
+    <ProjectFile Name="Symbols\arrow 14.lib" ModifiedDate="2015-03-16T18:10:08-05:00" Length="7786" />
+    <ProjectFile Name="Symbols\arrow 5.lib" ModifiedDate="2015-03-16T18:10:08-05:00" Length="6836" />
+    <ProjectFile Name="Symbols\bb_arrow left.lib" ModifiedDate="2015-03-16T18:10:08-05:00" Length="11575" />
+    <ProjectFile Name="Symbols\bb_arrow right.lib" ModifiedDate="2015-03-16T18:10:08-05:00" Length="11775" />
+    <ProjectFile Name="Symbols\beijer-electronics1.lib" ModifiedDate="2015-03-16T18:10:44-05:00" Length="9452" />
+    <ProjectFile Name="Symbols\br_cancel9.lib" ModifiedDate="2015-03-16T18:10:08-05:00" Length="22524" />
+    <ProjectFile Name="Symbols\br_ok9.lib" ModifiedDate="2015-03-16T18:10:08-05:00" Length="23377" />
+    <ProjectFile Name="Symbols\calculator.lib" ModifiedDate="2015-03-16T18:10:12-05:00" Length="32520" />
+    <ProjectFile Name="Symbols\digit1.lib" ModifiedDate="2015-03-16T18:10:10-05:00" Length="4438" />
+    <ProjectFile Name="Symbols\gears.lib" ModifiedDate="2015-03-16T18:10:12-05:00" Length="39870" />
+    <ProjectFile Name="Symbols\grey.lib" ModifiedDate="2015-03-16T18:10:10-05:00" Length="14263" />
+    <ProjectFile Name="Symbols\grey_left (1).lib" ModifiedDate="2015-03-16T18:10:10-05:00" Length="14344" />
+    <ProjectFile Name="Symbols\grey_left.lib" ModifiedDate="2015-03-16T18:10:10-05:00" Length="15742" />
+    <ProjectFile Name="Symbols\pipe 1.lib" ModifiedDate="2015-03-16T18:10:12-05:00" Length="1481" />
+    <ProjectFile Name="Symbols\pipe bend 4.lib" ModifiedDate="2015-03-16T18:10:12-05:00" Length="28604" />
+    <ProjectFile Name="Symbols\tank medium 1.lib" ModifiedDate="2015-03-16T18:10:12-05:00" Length="12175" />
+    <ProjectFile Name="Symbols\usb.lib" ModifiedDate="2015-03-16T18:10:12-05:00" Length="17192" />
+    <ProjectFile Name="Symbols\valve 5 on.lib" ModifiedDate="2015-03-16T18:10:12-05:00" Length="18588" />
+    <ProjectFile Name="Symbols\warning.lib" ModifiedDate="2015-03-16T18:10:12-05:00" Length="7380" />
+    <ProjectFile Name="TextLibrary.neo" ModifiedDate="2016-02-10T14:57:07.7521092-06:00" Length="39270" />
+    <ProjectFile Name="StartScreen.neoxaml" ModifiedDate="2016-02-16T14:35:26.3433203-06:00" Length="806" />
+    <ProjectFile Name="StartScreen.Script.cs" ModifiedDate="2016-02-16T14:35:26.3453203-06:00" Length="2711" />
+    <ProjectFile Name="StartScreen.xaml" ModifiedDate="2016-02-17T07:57:05.4975435-06:00" Length="20137" />
+    <ProjectFile Name="MainScreen.neoxaml" ModifiedDate="2016-02-10T14:57:26.0881092-06:00" Length="805" />
+    <ProjectFile Name="MainScreen.Script.cs" ModifiedDate="2016-02-10T14:57:26.0891092-06:00" Length="9618" />
+    <ProjectFile Name="MainScreen.xaml" ModifiedDate="2016-02-17T07:57:05.3785435-06:00" Length="68908" />
+    <ProjectFile Name="SettingScreen.neoxaml" ModifiedDate="2016-02-10T14:57:29.3281092-06:00" Length="808" />
+    <ProjectFile Name="SettingScreen.Script.cs" ModifiedDate="2016-02-10T14:57:29.3291092-06:00" Length="901" />
+    <ProjectFile Name="SettingScreen.xaml" ModifiedDate="2016-02-17T07:57:05.4275435-06:00" Length="37529" />
+    <ProjectFile Name="DisplayScreen.neoxaml" ModifiedDate="2016-02-10T14:57:30.1411092-06:00" Length="808" />
+    <ProjectFile Name="DisplayScreen.xaml" ModifiedDate="2016-02-17T07:57:05.3525435-06:00" Length="15513" />
+    <ProjectFile Name="StabilityScreen.neoxaml" ModifiedDate="2016-02-10T14:57:31.0351092-06:00" Length="810" />
+    <ProjectFile Name="StabilityScreen.Script.cs" ModifiedDate="2016-02-10T14:57:31.0361092-06:00" Length="790" />
+    <ProjectFile Name="StabilityScreen.xaml" ModifiedDate="2016-02-17T07:57:05.4815435-06:00" Length="34520" />
+    <ProjectFile Name="FilterScreen.neoxaml" ModifiedDate="2016-02-10T14:57:32.8031092-06:00" Length="807" />
+    <ProjectFile Name="FilterScreen.Script.cs" ModifiedDate="2016-02-10T14:57:32.8041092-06:00" Length="787" />
+    <ProjectFile Name="FilterScreen.xaml" ModifiedDate="2016-02-17T07:57:05.3675435-06:00" Length="16543" />
+    <ProjectFile Name="RcrdCfgScreen.neoxaml" ModifiedDate="2016-02-10T14:57:34.0141092-06:00" Length="808" />
+    <ProjectFile Name="RcrdCfgScreen.xaml" ModifiedDate="2016-02-17T07:57:05.3995435-06:00" Length="42037" />
+    <ProjectFile Name="PressDecayScreen.neoxaml" ModifiedDate="2016-02-10T14:57:36.5081092-06:00" Length="811" />
+    <ProjectFile Name="PressDecayScreen.Script.cs" ModifiedDate="2016-02-10T14:57:36.5101092-06:00" Length="791" />
+    <ProjectFile Name="PressDecayScreen.xaml" ModifiedDate="2016-02-17T07:57:05.3875435-06:00" Length="26178" />
+    <ProjectFile Name="DiagScreen.neoxaml" ModifiedDate="2016-02-11T12:49:55.3163505-06:00" Length="805" />
+    <ProjectFile Name="DiagScreen.Script.cs" ModifiedDate="2016-02-11T12:49:55.3173505-06:00" Length="21408" />
+    <ProjectFile Name="DiagScreen.xaml" ModifiedDate="2016-02-17T07:57:05.3425435-06:00" Length="57845" />
+    <ProjectFile Name="CalScreen.neoxaml" ModifiedDate="2016-02-10T14:57:39.6501092-06:00" Length="804" />
+    <ProjectFile Name="CalScreen.xaml" ModifiedDate="2016-02-17T07:57:05.3275435-06:00" Length="16264" />
+    <ProjectFile Name="BackRcrd.neoxaml" ModifiedDate="2016-02-10T14:57:40.5001092-06:00" Length="803" />
+    <ProjectFile Name="BackRcrd.Script.cs" ModifiedDate="2016-02-10T14:57:40.5011092-06:00" Length="783" />
+    <ProjectFile Name="BackRcrd.xaml" ModifiedDate="2016-02-17T07:57:05.2955435-06:00" Length="33544" />
+    <ProjectFile Name="RcrdDate.neoxaml" ModifiedDate="2016-02-10T14:57:41.2111092-06:00" Length="803" />
+    <ProjectFile Name="RcrdDate.Script.cs" ModifiedDate="2016-02-10T14:57:41.2131092-06:00" Length="4236" />
+    <ProjectFile Name="RcrdDate.xaml" ModifiedDate="2016-02-17T07:57:05.4015435-06:00" Length="14126" />
+    <ProjectFile Name="RcrdTime.neoxaml" ModifiedDate="2016-02-10T14:57:41.9401092-06:00" Length="803" />
+    <ProjectFile Name="RcrdTime.Script.cs" ModifiedDate="2016-02-10T14:57:41.9421092-06:00" Length="4324" />
+    <ProjectFile Name="RcrdTime.xaml" ModifiedDate="2016-02-17T07:57:05.4115435-06:00" Length="13856" />
+    <ProjectFile Name="RcrdInterval.neoxaml" ModifiedDate="2016-02-10T14:57:42.5111092-06:00" Length="807" />
+    <ProjectFile Name="RcrdInterval.Script.cs" ModifiedDate="2016-02-10T14:57:42.5121092-06:00" Length="2305" />
+    <ProjectFile Name="RcrdInterval.xaml" ModifiedDate="2016-02-17T07:57:05.4065435-06:00" Length="10763" />
+    <ProjectFile Name="RcrdFileName.neoxaml" ModifiedDate="2016-02-10T14:57:43.0501092-06:00" Length="807" />
+    <ProjectFile Name="RcrdFileName.Script.cs" ModifiedDate="2016-02-10T14:57:43.0511092-06:00" Length="1552" />
+    <ProjectFile Name="RcrdFileName.xaml" ModifiedDate="2016-02-17T07:57:05.4025435-06:00" Length="12312" />
+    <ProjectFile Name="popPasscode.neoxaml" ModifiedDate="2016-02-10T14:57:43.5981092-06:00" Length="806" />
+    <ProjectFile Name="popPasscode.Script.cs" ModifiedDate="2016-02-10T14:57:43.6001092-06:00" Length="2908" />
+    <ProjectFile Name="popPasscode.xaml" ModifiedDate="2016-02-17T07:57:05.3825435-06:00" Length="15464" />
+    <ProjectFile Name="popWrongPasscode.neoxaml" ModifiedDate="2016-02-10T14:57:44.4621092-06:00" Length="811" />
+    <ProjectFile Name="popWrongPasscode.Script.cs" ModifiedDate="2016-02-10T14:57:44.4631092-06:00" Length="1330" />
+    <ProjectFile Name="popWrongPasscode.xaml" ModifiedDate="2016-02-17T07:57:05.3855435-06:00" Length="4165" />
+    <ProjectFile Name="QuickFillScreen1.neoxaml" ModifiedDate="2016-02-10T14:57:44.7031092-06:00" Length="811" />
+    <ProjectFile Name="QuickFillScreen1.Script.cs" ModifiedDate="2016-02-10T14:57:44.7041092-06:00" Length="1202" />
+    <ProjectFile Name="QuickFillScreen1.xaml" ModifiedDate="2016-02-17T07:57:05.3915435-06:00" Length="10552" />
+    <ProjectFile Name="QuickFillScreen2.neoxaml" ModifiedDate="2016-02-10T14:57:45.4161092-06:00" Length="811" />
+    <ProjectFile Name="QuickFillScreen2.Script.cs" ModifiedDate="2016-02-10T14:57:45.4181092-06:00" Length="1659" />
+    <ProjectFile Name="QuickFillScreen2.xaml" ModifiedDate="2016-02-17T07:57:05.3935435-06:00" Length="18971" />
+    <ProjectFile Name="QucikFillScreen0.neoxaml" ModifiedDate="2016-02-10T14:57:46.2941092-06:00" Length="811" />
+    <ProjectFile Name="QucikFillScreen0.Script.cs" ModifiedDate="2016-02-10T14:57:46.2951092-06:00" Length="791" />
+    <ProjectFile Name="QucikFillScreen0.xaml" ModifiedDate="2016-02-17T07:57:05.3895435-06:00" Length="22275" />
+    <ProjectFile Name="QuickFillScreen3.neoxaml" ModifiedDate="2016-02-10T14:57:47.3321092-06:00" Length="811" />
+    <ProjectFile Name="QuickFillScreen3.Script.cs" ModifiedDate="2016-02-10T14:57:47.3341092-06:00" Length="5777" />
+    <ProjectFile Name="QuickFillScreen3.xaml" ModifiedDate="2016-02-17T07:57:05.3945435-06:00" Length="14151" />
+    <ProjectFile Name="DisplayBack.neoxaml" ModifiedDate="2016-02-10T14:57:47.8721092-06:00" Length="806" />
+    <ProjectFile Name="DisplayBack.Script.cs" ModifiedDate="2016-02-10T14:57:47.8731092-06:00" Length="786" />
+    <ProjectFile Name="DisplayBack.xaml" ModifiedDate="2016-02-17T07:57:05.3475435-06:00" Length="33574" />
+    <ProjectFile Name="DisplaySystemDate.neoxaml" ModifiedDate="2016-02-10T14:57:48.5221092-06:00" Length="812" />
+    <ProjectFile Name="DisplaySystemDate.Script.cs" ModifiedDate="2016-02-10T14:57:48.5231092-06:00" Length="7006" />
+    <ProjectFile Name="DisplaySystemDate.xaml" ModifiedDate="2016-02-17T07:57:05.3535435-06:00" Length="18943" />
+    <ProjectFile Name="DisplaySystemTime.neoxaml" ModifiedDate="2016-02-17T08:19:08.0710703-06:00" Length="812" />
+    <ProjectFile Name="DisplaySystemTime.Script.cs" ModifiedDate="2016-02-17T08:19:08.0720703-06:00" Length="4934" />
+    <ProjectFile Name="DisplaySystemTime.xaml" ModifiedDate="2016-02-17T08:19:08.2180703-06:00" Length="22923" />
+    <ProjectFile Name="DisplayBacklight.neoxaml" ModifiedDate="2016-02-10T14:57:50.4481092-06:00" Length="811" />
+    <ProjectFile Name="DisplayBacklight.Script.cs" ModifiedDate="2016-02-10T14:57:50.4491092-06:00" Length="3149" />
+    <ProjectFile Name="DisplayBacklight.xaml" ModifiedDate="2016-02-17T07:57:05.3485435-06:00" Length="13428" />
+    <ProjectFile Name="DisplayDecimals.neoxaml" ModifiedDate="2016-02-10T14:57:51.3191092-06:00" Length="810" />
+    <ProjectFile Name="DisplayDecimals.Script.cs" ModifiedDate="2016-02-10T14:57:51.3201092-06:00" Length="9572" />
+    <ProjectFile Name="DisplayDecimals.xaml" ModifiedDate="2016-02-17T07:57:05.3505435-06:00" Length="11927" />
+    <ProjectFile Name="FilterBack.neoxaml" ModifiedDate="2016-02-10T14:57:51.8561092-06:00" Length="805" />
+    <ProjectFile Name="FilterBack.xaml" ModifiedDate="2016-02-17T07:57:05.3575435-06:00" Length="19743" />
+    <ProjectFile Name="FilterMid.neoxaml" ModifiedDate="2016-02-10T14:57:52.3601092-06:00" Length="804" />
+    <ProjectFile Name="FilterMid.Script.cs" ModifiedDate="2016-02-10T14:57:52.3611092-06:00" Length="3923" />
+    <ProjectFile Name="FilterMid.xaml" ModifiedDate="2016-02-17T07:57:05.3655435-06:00" Length="14091" />
+    <ProjectFile Name="FilterLow.neoxaml" ModifiedDate="2016-02-10T14:57:52.9481092-06:00" Length="804" />
+    <ProjectFile Name="FilterLow.Script.cs" ModifiedDate="2016-02-10T14:57:52.9491092-06:00" Length="3931" />
+    <ProjectFile Name="FilterLow.xaml" ModifiedDate="2016-02-17T07:57:05.3605435-06:00" Length="14090" />
+    <ProjectFile Name="FilterHigh.neoxaml" ModifiedDate="2016-02-10T14:57:53.5671092-06:00" Length="805" />
+    <ProjectFile Name="FilterHigh.Script.cs" ModifiedDate="2016-02-10T14:57:53.5681092-06:00" Length="785" />
+    <ProjectFile Name="FilterHigh.xaml" ModifiedDate="2016-02-17T07:57:05.3585435-06:00" Length="10927" />
+    <ProjectFile Name="StabBack.neoxaml" ModifiedDate="2016-02-10T14:57:54.2091092-06:00" Length="803" />
+    <ProjectFile Name="StabBack.Script.cs" ModifiedDate="2016-02-10T14:57:54.2111092-06:00" Length="1551" />
+    <ProjectFile Name="StabBack.xaml" ModifiedDate="2016-02-17T07:57:05.4795435-06:00" Length="24634" />
+    <ProjectFile Name="StabLow.neoxaml" ModifiedDate="2016-02-10T14:57:54.8071092-06:00" Length="802" />
+    <ProjectFile Name="StabLow.Script.cs" ModifiedDate="2016-02-10T14:57:54.8101092-06:00" Length="7965" />
+    <ProjectFile Name="StabLow.xaml" ModifiedDate="2016-02-17T07:57:05.4855435-06:00" Length="20296" />
+    <ProjectFile Name="StabMid.neoxaml" ModifiedDate="2016-02-10T14:57:55.5711092-06:00" Length="802" />
+    <ProjectFile Name="StabMid.Script.cs" ModifiedDate="2016-02-10T14:57:55.5721092-06:00" Length="7956" />
+    <ProjectFile Name="StabMid.xaml" ModifiedDate="2016-02-17T07:57:05.4875435-06:00" Length="20289" />
+    <ProjectFile Name="CalBack.neoxaml" ModifiedDate="2016-02-10T14:57:56.3041092-06:00" Length="802" />
+    <ProjectFile Name="CalBack.Script.cs" ModifiedDate="2016-02-10T14:57:56.3061092-06:00" Length="782" />
+    <ProjectFile Name="CalBack.xaml" ModifiedDate="2016-02-17T07:57:05.3195435-06:00" Length="33447" />
+    <ProjectFile Name="CalSelectMeter.neoxaml" ModifiedDate="2016-02-10T14:57:56.9571092-06:00" Length="809" />
+    <ProjectFile Name="CalSelectMeter.Script.cs" ModifiedDate="2016-02-10T14:57:56.9591092-06:00" Length="3099" />
+    <ProjectFile Name="CalSelectMeter.xaml" ModifiedDate="2016-02-17T07:57:05.3285435-06:00" Length="6061" />
+    <ProjectFile Name="CalInstruction.neoxaml" ModifiedDate="2016-02-10T14:57:57.4001092-06:00" Length="809" />
+    <ProjectFile Name="CalInstruction.Script.cs" ModifiedDate="2016-02-10T14:57:57.4031092-06:00" Length="1700" />
+    <ProjectFile Name="CalInstruction.xaml" ModifiedDate="2016-02-17T07:57:05.3255435-06:00" Length="18306" />
+    <ProjectFile Name="CalAdjust.neoxaml" ModifiedDate="2016-02-10T14:57:58.0121092-06:00" Length="804" />
+    <ProjectFile Name="CalAdjust.Script.cs" ModifiedDate="2016-02-10T14:57:58.0131092-06:00" Length="15056" />
+    <ProjectFile Name="CalAdjust.xaml" ModifiedDate="2016-02-17T07:57:05.2985435-06:00" Length="17846" />
+    <ProjectFile Name="CalSetCalDate.neoxaml" ModifiedDate="2016-02-10T14:57:58.8121092-06:00" Length="808" />
+    <ProjectFile Name="CalSetCalDate.Script.cs" ModifiedDate="2016-02-10T14:57:58.8251092-06:00" Length="7928" />
+    <ProjectFile Name="CalSetCalDate.xaml" ModifiedDate="2016-02-17T07:57:05.3305435-06:00" Length="23676" />
+    <ProjectFile Name="popUnitSelect.neoxaml" ModifiedDate="2016-02-10T14:57:59.6171092-06:00" Length="808" />
+    <ProjectFile Name="popUnitSelect.Script.cs" ModifiedDate="2016-02-10T14:57:59.6191092-06:00" Length="1492" />
+    <ProjectFile Name="popUnitSelect.xaml" ModifiedDate="2016-02-17T07:57:05.3845435-06:00" Length="12264" />
+    <ProjectFile Name="QuickFillSetting.neoxaml" ModifiedDate="2016-02-10T14:58:00.0211092-06:00" Length="811" />
+    <ProjectFile Name="QuickFillSetting.Script.cs" ModifiedDate="2016-02-10T14:58:00.0221092-06:00" Length="1998" />
+    <ProjectFile Name="QuickFillSetting.xaml" ModifiedDate="2016-02-17T07:57:05.3965435-06:00" Length="19397" />
+    <ProjectFile Name="DiagReportFlow.neoxaml" ModifiedDate="2016-02-10T14:58:00.7571092-06:00" Length="809" />
+    <ProjectFile Name="DiagReportFlow.Script.cs" ModifiedDate="2016-02-10T14:58:00.7581092-06:00" Length="3958" />
+    <ProjectFile Name="DiagReportFlow.xaml" ModifiedDate="2016-02-17T07:57:05.3335435-06:00" Length="24856" />
+    <ProjectFile Name="SelectFileName.neoxaml" ModifiedDate="2016-02-10T14:58:01.9231092-06:00" Length="809" />
+    <ProjectFile Name="SelectFileName.Script.cs" ModifiedDate="2016-02-10T14:58:01.9241092-06:00" Length="8945" />
+    <ProjectFile Name="SelectFileName.xaml" ModifiedDate="2016-02-17T07:57:05.4235435-06:00" Length="71379" />
+    <ProjectFile Name="KeyBoardScreen.neoxaml" ModifiedDate="2016-02-10T14:58:02.7731092-06:00" Length="809" />
+    <ProjectFile Name="KeyBoardScreen.Script.cs" ModifiedDate="2016-02-10T14:58:02.7751092-06:00" Length="3032" />
+    <ProjectFile Name="KeyBoardScreen.xaml" ModifiedDate="2016-02-17T07:57:05.3745435-06:00" Length="4505" />
+    <ProjectFile Name="ImportData.neoxaml" ModifiedDate="2016-02-10T14:58:03.1651092-06:00" Length="805" />
+    <ProjectFile Name="ImportData.Script.cs" ModifiedDate="2016-02-10T14:58:03.1661092-06:00" Length="10185" />
+    <ProjectFile Name="ImportData.xaml" ModifiedDate="2016-02-17T07:57:05.3735435-06:00" Length="65141" />
+    <ProjectFile Name="GeneralMsgBox.neoxaml" ModifiedDate="2016-02-10T14:58:03.8211092-06:00" Length="808" />
+    <ProjectFile Name="GeneralMsgBox.Script.cs" ModifiedDate="2016-02-10T14:58:03.8221092-06:00" Length="1078" />
+    <ProjectFile Name="GeneralMsgBox.xaml" ModifiedDate="2016-02-17T07:57:05.3705435-06:00" Length="4714" />
+    <ProjectFile Name="SelectData.neoxaml" ModifiedDate="2016-02-10T14:58:04.1271092-06:00" Length="805" />
+    <ProjectFile Name="SelectData.Script.cs" ModifiedDate="2016-02-10T14:58:04.1281092-06:00" Length="7372" />
+    <ProjectFile Name="SelectData.xaml" ModifiedDate="2016-02-17T07:57:05.4155435-06:00" Length="66121" />
+    <ProjectFile Name="FlowRateDisplay.neoxaml" ModifiedDate="2016-02-10T14:58:04.9781092-06:00" Length="810" />
+    <ProjectFile Name="FlowRateDisplay.Script.cs" ModifiedDate="2016-02-10T14:58:04.9791092-06:00" Length="9523" />
+    <ProjectFile Name="FlowRateDisplay.xaml" ModifiedDate="2016-02-17T07:57:05.3695435-06:00" Length="30565" />
+    <ProjectFile Name="ShowFile.neoxaml" ModifiedDate="2016-02-10T14:58:06.2621092-06:00" Length="803" />
+    <ProjectFile Name="ShowFile.Script.cs" ModifiedDate="2016-02-10T14:58:06.2631092-06:00" Length="8883" />
+    <ProjectFile Name="ShowFile.xaml" ModifiedDate="2016-02-17T07:57:05.4305435-06:00" Length="66045" />
+    <ProjectFile Name="DiagScreen1.neoxaml" ModifiedDate="2016-02-10T14:58:07.0291092-06:00" Length="806" />
+    <ProjectFile Name="DiagScreen1.Script.cs" ModifiedDate="2016-02-10T14:58:07.0301092-06:00" Length="878" />
+    <ProjectFile Name="DiagScreen1.xaml" ModifiedDate="2016-02-17T07:57:05.3455435-06:00" Length="19208" />
+    <ProjectFile Name="DiagPreCheck.neoxaml" ModifiedDate="2016-02-10T14:58:07.8431092-06:00" Length="807" />
+    <ProjectFile Name="DiagPreCheck.Script.cs" ModifiedDate="2016-02-10T14:58:07.8441092-06:00" Length="5984" />
+    <ProjectFile Name="DiagPreCheck.xaml" ModifiedDate="2016-02-17T07:57:05.3315435-06:00" Length="9819" />
+    <ProjectFile Name="DiagReportPress.neoxaml" ModifiedDate="2016-02-10T14:58:08.3091092-06:00" Length="810" />
+    <ProjectFile Name="DiagReportPress.Script.cs" ModifiedDate="2016-02-10T14:58:08.3101092-06:00" Length="3616" />
+    <ProjectFile Name="DiagReportPress.xaml" ModifiedDate="2016-02-17T07:57:05.3375435-06:00" Length="19692" />
+    <ProjectFile Name="DiagReportSolenoid.neoxaml" ModifiedDate="2016-02-10T14:58:09.1451092-06:00" Length="813" />
+    <ProjectFile Name="DiagReportSolenoid.Script.cs" ModifiedDate="2016-02-10T14:58:09.1471092-06:00" Length="3660" />
+    <ProjectFile Name="DiagReportSolenoid.xaml" ModifiedDate="2016-02-17T07:57:05.3395435-06:00" Length="22972" />
+    <ProjectFile Name="popCalculator.neoxaml" ModifiedDate="2016-02-10T14:58:09.9931092-06:00" Length="808" />
+    <ProjectFile Name="popCalculator.Script.cs" ModifiedDate="2016-02-10T14:58:09.9941092-06:00" Length="5998" />
+    <ProjectFile Name="popCalculator.xaml" ModifiedDate="2016-02-17T07:57:05.3805435-06:00" Length="25088" />
+    <ProjectFile Name="popConfirm.neoxaml" ModifiedDate="2016-02-10T14:58:10.8461092-06:00" Length="805" />
+    <ProjectFile Name="popConfirm.Script.cs" ModifiedDate="2016-02-10T14:58:10.8471092-06:00" Length="1409" />
+    <ProjectFile Name="popConfirm.xaml" ModifiedDate="2016-02-17T07:57:05.3815435-06:00" Length="5481" />
+    <ProjectFile Name="CalDueDateSetting.neoxaml" ModifiedDate="2016-02-10T14:58:11.2961092-06:00" Length="812" />
+    <ProjectFile Name="CalDueDateSetting.Script.cs" ModifiedDate="2016-02-10T14:58:11.2981092-06:00" Length="8069" />
+    <ProjectFile Name="CalDueDateSetting.xaml" ModifiedDate="2016-02-17T07:57:05.3235435-06:00" Length="26519" />
+    <ProjectFile Name="BuzzerConfig.neoxaml" ModifiedDate="2016-02-10T14:58:12.1771092-06:00" Length="807" />
+    <ProjectFile Name="BuzzerConfig.Script.cs" ModifiedDate="2016-02-10T14:58:12.1781092-06:00" Length="1121" />
+    <ProjectFile Name="BuzzerConfig.xaml" ModifiedDate="2016-02-17T07:57:05.2965435-06:00" Length="9244" />
+    <ProjectFile Name="Printer1.xml" ModifiedDate="2015-05-20T14:32:55.5761079-05:00" Length="850" />
+    <ProjectFile Name="DEMO.neo" ModifiedDate="2016-02-10T14:58:36.5502497-06:00" Length="888" />
+    <ProjectFile Name="UnitsAndConversion.neo" ModifiedDate="2016-02-10T14:57:07.7541092-06:00" Length="433" />
+    <ProjectFile Name="UnitsAndConversion.Script.cs" ModifiedDate="2015-08-19T12:59:43.5161438-05:00" Length="4928" />
+    <ProjectFile Name="DrawScreen.neo" ModifiedDate="2016-02-10T14:57:07.7561092-06:00" Length="425" />
+    <ProjectFile Name="DrawScreen.Script.cs" ModifiedDate="2015-08-20T09:52:02.3927138-05:00" Length="4485" />
+    <ProjectFile Name="Recording.neo" ModifiedDate="2016-02-10T14:57:07.7571092-06:00" Length="424" />
+    <ProjectFile Name="Recording.Script.cs" ModifiedDate="2016-02-10T14:57:07.2901092-06:00" Length="5642" />
+    <ProjectFile Name="Comm.neo" ModifiedDate="2016-02-12T13:30:58.0879311-06:00" Length="450" />
+    <ProjectFile Name="Comm.Script.cs" ModifiedDate="2016-02-12T13:30:58.0889311-06:00" Length="13781" />
+    <ProjectFile Name="SolenoidValveControl.neo" ModifiedDate="2016-02-12T13:31:24.2329311-06:00" Length="466" />
+    <ProjectFile Name="SolenoidValveControl.Script.cs" ModifiedDate="2016-02-12T13:31:24.2359311-06:00" Length="13240" />
+    <ProjectFile Name="CalAndUpdate.neo" ModifiedDate="2016-02-10T14:57:07.7631092-06:00" Length="427" />
+    <ProjectFile Name="CalAndUpdate.Script.cs" ModifiedDate="2015-09-09T09:12:34.2260218-05:00" Length="10905" />
+    <ProjectFile Name="MainTimer.neo" ModifiedDate="2016-02-10T14:57:07.7651092-06:00" Length="424" />
+    <ProjectFile Name="MainTimer.Script.cs" ModifiedDate="2015-08-31T09:37:30.3964228-05:00" Length="4382" />
+    <ProjectFile Name="Definition.neo" ModifiedDate="2016-02-12T13:30:58.1159311-06:00" Length="456" />
+    <ProjectFile Name="Definition.Script.cs" ModifiedDate="2016-02-12T13:30:58.1169311-06:00" Length="22795" />
+    <ProjectFile Name="Buzzer.neo" ModifiedDate="2016-02-12T13:31:31.4999311-06:00" Length="452" />
+    <ProjectFile Name="Buzzer.Script.cs" ModifiedDate="2016-02-12T13:31:31.5009311-06:00" Length="1286" />
+    <ProjectFile Name="DefaultSettings.neo" ModifiedDate="2016-02-16T14:35:27.8233203-06:00" Length="13691" />
+    <ProjectFile Name="DefaultSettings.Script.cs" ModifiedDate="2016-02-16T14:35:27.8243203-06:00" Length="794" />
+    <ProjectFile Name="InternalSettings.neo" ModifiedDate="2016-02-16T14:43:38.3923741-06:00" Length="26448" />
+    <ProjectFile Name="InternalSettings.Script.cs" ModifiedDate="2016-02-16T14:43:38.3983741-06:00" Length="791" />
+    <ProjectFile Name="PersistentVariables.neo" ModifiedDate="2016-02-16T14:43:57.7665723-06:00" Length="51153" />
+    <ProjectFile Name="DecimalSettings.neo" ModifiedDate="2016-02-16T14:35:27.9053203-06:00" Length="12565" />
+    <ProjectFile Name="FilterSettingMid.neo" ModifiedDate="2016-02-16T14:43:38.4473741-06:00" Length="3415" />
+    <ProjectFile Name="FilterSettingMid.Script.cs" ModifiedDate="2016-02-16T14:43:38.4483741-06:00" Length="791" />
+    <ProjectFile Name="StabSettingMid.neo" ModifiedDate="2016-02-16T14:43:38.4853741-06:00" Length="4633" />
+    <ProjectFile Name="StabSettingLow.neo" ModifiedDate="2016-02-16T14:43:38.5063741-06:00" Length="4633" />
+    <ProjectFile Name="FilterSettingLow.neo" ModifiedDate="2016-02-16T14:43:38.5273741-06:00" Length="3415" />
+  </ProjectFiles>
+</Project>

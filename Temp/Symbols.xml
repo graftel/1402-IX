@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Symbols>
+  <Symbol FileName="largelasalle01.bmp" Transparent="false" Width="480" Height="280" />
+  <Symbol FileName="graftel-logo.bmp" Transparent="false" Width="74" Height="73" />
+  <Symbol FileName="remote_desktop_connection_icon.bmp" Transparent="true" Width="32" Height="32" />
+  <Symbol FileName="settings_work_tool_256.bmp" Transparent="true" Width="44" Height="44" />
+  <Symbol FileName="settings_work_tool_256 (1).bmp" Transparent="true" Width="44" Height="44" />
+  <Symbol FileName="home_button_256.bmp" Transparent="true" Width="44" Height="44" />
+  <Symbol FileName="home_button_256 (1).bmp" Transparent="true" Width="44" Height="44" />
+  <Symbol FileName="path29851.bmp" Transparent="true" Width="37" Height="43" />
+  <Symbol FileName="path2985.bmp" Transparent="true" Width="37" Height="43" />
+  <Symbol FileName="br_cancel9.bmp" Transparent="true" Width="37" Height="37" />
+  <Symbol FileName="br_ok9.bmp" Transparent="true" Width="37" Height="37" />
+  <Symbol FileName="warning.bmp" Transparent="true" Width="38" Height="35" />
+  <Symbol FileName="ajax-loader (1).abmp" Transparent="false" Width="36" Height="36">
+    <Frame Delay="00:00:00.1000000" />
+    <Frame Delay="00:00:00.1000000" />
+    <Frame Delay="00:00:00.1000000" />
+    <Frame Delay="00:00:00.1000000" />
+    <Frame Delay="00:00:00.1000000" />
+    <Frame Delay="00:00:00.1000000" />
+    <Frame Delay="00:00:00.1000000" />
+    <Frame Delay="00:00:00.1000000" />
+  </Symbol>
+  <Symbol FileName="path2924.bmp" Transparent="true" Width="52" Height="45" />
+  <Symbol FileName="path2923.bmp" Transparent="true" Width="51" Height="44" />
+  <Symbol FileName="path5894.bmp" Transparent="true" Width="45" Height="27" />
+  <Symbol FileName="image2993.bmp" Transparent="true" Width="27" Height="24" />
+  <Symbol FileName="path3833.bmp" Transparent="true" Width="23" Height="26" />
+  <Symbol FileName="g4182.bmp" Transparent="true" Width="25" Height="22" />
+  <Symbol FileName="image2993 (2).bmp" Transparent="true" Width="29" Height="33" />
+  <Symbol FileName="tank medium 1.bmp" Transparent="true" Width="73" Height="148" />
+  <Symbol FileName="pipe bend 4.bmp" Transparent="true" Width="20" Height="20" />
+  <Symbol FileName="pipe 1.bmp" Transparent="true" Width="76" Height="5" />
+  <Symbol FileName="valve 5 on.bmp" Transparent="true" Width="53" Height="34" />
+  <Symbol FileName="calculator.bmp" Transparent="true" Width="41" Height="45" />
+  <Symbol FileName="panup.bmp" Transparent="true" Width="43" Height="43" />
+  <Symbol FileName="wifisignalno (2).bmp" Transparent="false" Width="33" Height="27" />
+  <Symbol FileName="wifisignallow.bmp" Transparent="false" Width="31" Height="26" />
+  <Symbol FileName="wifisignalmedium.bmp" Transparent="false" Width="32" Height="26" />
+  <Symbol FileName="wifisignalstrong.bmp" Transparent="false" Width="32" Height="26" />
+  <Symbol FileName="pandown.bmp" Transparent="true" Width="42" Height="42" />
+</Symbols>
